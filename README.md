@@ -1,5 +1,4 @@
 
-````
 # CLIENT-SERVER ARCHITECTURE USING MYSQL DBMS
 
 ## 📌 Project Overview
